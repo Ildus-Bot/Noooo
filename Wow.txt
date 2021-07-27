@@ -1,2 +1,8 @@
+
 sss$hjs$$
 fghfghakhs$$
+=======
+sss$hjs$$
+fghfghakhs$$
+adsasd$$
+>>>>>>> new_project
